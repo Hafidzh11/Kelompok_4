@@ -1,3 +1,6 @@
+Anggota : Hafidzh Fakry
+          Asep Nurjaman
+          Galdiaz Nugraha
 # aplikasi_sederhana
 
 A new Flutter project.
